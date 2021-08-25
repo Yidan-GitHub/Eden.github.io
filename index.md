@@ -2,8 +2,15 @@
 
 [__About Me__](About.md) &nbsp; &nbsp; &nbsp; &nbsp;  [__Research__](Research.md) &nbsp; &nbsp; &nbsp; &nbsp;    [__Projects__](Projects.md) &nbsp; &nbsp; &nbsp; &nbsp;   [__CV__](CV.md)   
 
+<img src="/assets/images/test.png" width="200" /> 
 
-![image](/assets/images/test.png=250x250)
+Thanks for stopping by. 
+
+### Education
+
+
+### Contact Me
+
 
 
 
